@@ -1,0 +1,55 @@
+[
+{
+"productId": "1",
+"name":"test-1",
+"detail":" Hello my love",
+"amount": 10000000,
+"price": 150000,
+"image":"https://img.lazcdn.com/g/p/36873f69366e6e96114258a65869b2ca.jpg_400x400q80.jpg"
+},
+{
+"productId": "2",
+"name":"test-2",
+"detail":" Hello my love",
+"amount": 20000000,
+"price": 160000,
+"image":"https://img.lazcdn.com/g/p/b375f9b7caed61c858b8630371d9c201.png_400x400q80.png"
+
+},
+{
+"productId": "3",
+"name":"test-3",
+"detail":" Hello my love",
+"amount": 30000000,
+"price": 170000,
+"image":"https://img.lazcdn.com/live/th/p/3635686395fc0f1ecc94063eff9629dc.jpg_400x400q80.jpg_.webp"
+
+},
+{
+"productId": "4",
+"name":"test-4",
+"detail":" Hello my love",
+"amount": 40000000,
+"price": 180000,
+"image":"https://img.lazcdn.com/g/p/5e761800a01029aa67a8db9cd5cb2662.png_400x400q80.png"
+
+},
+{
+"productId": "5",
+"name":"test-5",
+"detail":" Hello my love",
+"amount": 50000000,
+"price": 190000,
+"image":"https://img.lazcdn.com/g/p/a9bb7340727d28746f04ab94efe070a4.jpg_400x400q80.jpg_.webp"
+
+},
+{
+"productId": "6",
+"name":"test-6",
+"detail":" Hello my love",
+"amount": 60000000,
+"price": 200000,
+"image":"https://img.lazcdn.com/g/p/31159bd30614f9391415d9fbf8638511.jpg_400x400q80.jpg_.webp"
+
+}
+]
